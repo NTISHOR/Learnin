@@ -1,1 +1,1 @@
-dzv ggd 
+console.log("from script file");
